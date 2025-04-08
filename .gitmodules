@@ -1,0 +1,6 @@
+[submodule "plugins/tmux-which-key"]
+	path = plugins/tmux-which-key
+	url = https://github.com/alexwforsythe/tmux-which-key.git
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = https://github.com/tmux-plugins/tpm.git
